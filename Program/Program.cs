@@ -9,7 +9,7 @@ namespace Program
             Console.ForegroundColor = ConsoleColor.DarkCyan;
             Employee employee1;
             Employee employee2 = new Employee();
-            employee2.SetName("Inigo", "Montoya");
+//            employee2.SetName("Inigo", "Montoya");
             employee2.Save();
             
             IncreaseSalary(employee2);
