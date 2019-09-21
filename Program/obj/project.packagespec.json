@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/sasquatchxyz/DotNetProjects/Program/Program/Program.csproj",
+    "projectUniqueName": "/Users/dalton.ricker/GT/dot-net/C-_Playground/Program/Program.csproj",
     "projectName": "Program",
-    "projectPath": "/home/sasquatchxyz/DotNetProjects/Program/Program/Program.csproj",
-    "outputPath": "/home/sasquatchxyz/DotNetProjects/Program/Program/obj/",
+    "projectPath": "/Users/dalton.ricker/GT/dot-net/C-_Playground/Program/Program.csproj",
+    "outputPath": "/Users/dalton.ricker/GT/dot-net/C-_Playground/Program/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.2"

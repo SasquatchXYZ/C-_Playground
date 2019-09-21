@@ -1,0 +1,11 @@
+/Users/dalton.ricker/GT/dot-net/C-_Playground/Program/bin/Debug/netcoreapp2.2/Program.deps.json
+/Users/dalton.ricker/GT/dot-net/C-_Playground/Program/bin/Debug/netcoreapp2.2/Program.runtimeconfig.json
+/Users/dalton.ricker/GT/dot-net/C-_Playground/Program/bin/Debug/netcoreapp2.2/Program.runtimeconfig.dev.json
+/Users/dalton.ricker/GT/dot-net/C-_Playground/Program/bin/Debug/netcoreapp2.2/Program.dll
+/Users/dalton.ricker/GT/dot-net/C-_Playground/Program/bin/Debug/netcoreapp2.2/Program.pdb
+/Users/dalton.ricker/GT/dot-net/C-_Playground/Program/obj/Debug/netcoreapp2.2/Program.csprojAssemblyReference.cache
+/Users/dalton.ricker/GT/dot-net/C-_Playground/Program/obj/Debug/netcoreapp2.2/Program.csproj.CoreCompileInputs.cache
+/Users/dalton.ricker/GT/dot-net/C-_Playground/Program/obj/Debug/netcoreapp2.2/Program.AssemblyInfoInputs.cache
+/Users/dalton.ricker/GT/dot-net/C-_Playground/Program/obj/Debug/netcoreapp2.2/Program.AssemblyInfo.cs
+/Users/dalton.ricker/GT/dot-net/C-_Playground/Program/obj/Debug/netcoreapp2.2/Program.dll
+/Users/dalton.ricker/GT/dot-net/C-_Playground/Program/obj/Debug/netcoreapp2.2/Program.pdb
